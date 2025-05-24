@@ -1,6 +1,5 @@
 - Hi, I’m @Sachitdabhi
 - I’m interested in Game development 
-- I’m currently Student 
 - How to reach me 
   EMail :- dsachit676@gmail.com
    
